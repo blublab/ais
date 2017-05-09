@@ -1,0 +1,14 @@
+http://graphaware.com/assets/bachman-msc-thesis.pdf
+
+
+
+https://neo4j.com/why-graph-databases/
+https://neo4j.com/developer/graph-database/
+https://neo4j.com/developer/cypher-query-language/
+https://neo4j.com/blog/analyzing-panama-papers-neo4j/
+
+https://github.com/tathamoddie/neo4j-intro-tutorial/blob/master/Neo4j%20Intro%20Tutorial.pdf
+http://www.slideserve.com/yardley/neo4j
+
+https://en.wikipedia.org/wiki/Graph_database
+https://en.wikipedia.org/wiki/Neo4j
